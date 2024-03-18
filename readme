@@ -1,0 +1,20 @@
+(1) - o valor variável de "SOMA" seria 91
+
+(2) - question2.py
+
+(3) - (a) A lógica é adicionar 2 ao número anterior. Portanto, o próximo número seria 9.
+      (b) A lógica é multiplicar o número anterior por 2. Portanto, o próximo número seria 128.
+      (c) A lógica é adicionar o quadrado do índice à sequência. Portanto, o próximo número seria 49.
+      (d) A lógica é elevar o índice ao quadrado. Portanto, o próximo número seria 100.
+      (e) A lógica é somar os dois números anteriores. Portanto, o próximo número seria 13.
+      (f) A lógica não é tão evidente. Pode ser uma progressão aleatória. Conforme o padrão aparente, poderia ser 22.
+
+(4) - Para descobrir qual interruptor controla cada lâmpada, podemos seguir este procedimento:
+      Ligue o primeiro interruptor e espere alguns minutos.
+      Desligue o primeiro interruptor e ligue o segundo interruptor.
+      Entre na sala.
+      Se a lâmpada estiver acesa, o primeiro interruptor controla essa lâmpada. 
+      Se estiver apagada, toque a lâmpada. Se estiver quente, o segundo interruptor controla essa lâmpada. 
+      Se estiver fria e desligada, o terceiro interruptor controla essa lâmpada.
+
+(5) - question5.py
